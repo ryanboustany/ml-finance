@@ -1,6 +1,6 @@
 # Quant GANs: Deep Generation of Financial Time Series
 In this Notebook we propose a detailed study and an implementation of the article of Magnus Wiese, Robert Knobloch, Ralf Korn and Peter Kretschmer : *Quant GANs:
-Deep Generation of Financial Time Series*. The idea is to propose a new algorithm to Modeling financial time series with Quant GANs. That's consist of a generator and discriminator function which utilize temporal convolutional networks (TCNs) and thereby achieve to capture long-range dependencies such as the presence of volatility clusters.  
+Deep Generation of Financial Time Series*. The idea is to propose a new algorithm to Modeling financial time series with Quant GANs. That is consist of a generator and discriminator functions which utilize temporal convolutional networks (TCNs) and thereby achieve to capture long-range dependencies such as the presence of volatility clusters.  
 
 Project done as part of the Machine Learning for Finance course, taught during the third year of the engineering cycle at ENSAE Paris, supervised by J.D. Fermanian and H. Pham
 
